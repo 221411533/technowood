@@ -59,3 +59,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Proyecto Tic 72
 prueba de sincronizacion con repositorio de github.
+Nueva linea agregada desde el navegador.
